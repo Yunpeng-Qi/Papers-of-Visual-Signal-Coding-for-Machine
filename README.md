@@ -15,7 +15,7 @@ University of Science and Technology of China (USTC), Intelligent Media Computin
 - [Survey & Theory](#Survey-&-Theory)
 - [Compress Then Analysis](#Compress-Then-Analysis)
 - [Feature Compression](#Feature-Compression)
-- [Joint Human and Machine Vision](#Joint-Human-and-Machine)
+- [Joint Human and Machine Vision](#Joint-Human-and-Machine-Vision)
   <!-- - [Recommended Datasets](#recommended-datasets)
   - [All Datasets](#all-datasets) -->
 
@@ -64,7 +64,7 @@ University of Science and Technology of China (USTC), Intelligent Media Computin
 | | [Lossy Intermediate Deep Learning Feature Compression and Evaluation](https://dl.acm.org/doi/abs/10.1145/3343031.3350849) | Zhuo Chen |  | ACMMM2019 | Image |  |
 | | [Toward Intelligent Sensing: Intermediate Deep Feature Compression](https://ieeexplore.ieee.org/abstract/document/8848858) | Zhuo Chen |  | TIP2019 | Image |  |
 | | [Deep Feature Compression for Collaborative Object Detection](https://ieeexplore.ieee.org/abstract/document/8451100) | Hyomin Choi |  | ICIP2018 | Image | |
-### Joint-Human-and-Machine
+### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
