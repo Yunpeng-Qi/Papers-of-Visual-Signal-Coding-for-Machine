@@ -1,3 +1,4 @@
+#Papers of Visual Signal Coding for Machine
 **Purpose**: We aim to provide a summary of visual signal coding for machine. More papers will be summarized.
 
 University of Science and Technology of China (USTC), Intelligent Media Computing Lab
@@ -25,8 +26,8 @@ University of Science and Technology of China (USTC), Intelligent Media Computin
 |  | [Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics](https://ieeexplore.ieee.org/abstract/document/9180095) | Lingyu Duan |  | TIP2020 | Video |  |
 |  | [On The Classification-Distortion-Perception Tradeoff](https://proceedings.neurips.cc/paper_files/paper/2019) | Dong Liu |  | NeurIPS2019 | |  |
 ### Compress-Then-Analysis
-| Paper | First Author | Training Way | Venue | Topic | Project |
-| :--- | :---: | :--: | :--: |:--: | :--: |
+|Models| Paper | First Author | Training Way | Venue | Data | Project |
+| :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | VNVC | [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
 | | [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/10379180) | Mingyi Yang |  | TCSVT2024 | Image | |
 |TransTIC| [TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransTIC_Transferring_Transformer-based_Image_Compression_from_Human_Perception_to_Machine_ICCV_2023_paper.pdf) | Yi-Hsin Chen | prompt | ICCV2023 | Image | [Github](https://github.com/NYCU-MAPL/TransTIC) |
