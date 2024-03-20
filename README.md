@@ -1,4 +1,5 @@
-#Papers of Visual Signal Coding for Machine
+**Papers of Visual Signal Coding for Machine**
+
 **Purpose**: We aim to provide a summary of visual signal coding for machine. More papers will be summarized.
 
 University of Science and Technology of China (USTC), Intelligent Media Computing Lab
