@@ -23,7 +23,9 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |Models| Paper | First Author | Training Way | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |  | [Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics](https://ieeexplore.ieee.org/abstract/document/10440522) | Wenhan Yang, Haofeng Huang and Yueyu Hu |  | TPAMI2024 | Video | |
-|  | [Rate-Distortion Theory in Coding for Machines andits Applications](https://arxiv.org/pdf/2305.17295.pdf) | Alon Harell |  | PrePrint'23 | | |
+|  | [Rate-Distortion Theory in Coding for Machines and its Applications](https://arxiv.org/pdf/2305.17295.pdf) | Alon Harell |  | PrePrint'23 | | |
+|  | [Rate-Distortion in Image Coding for Machines](https://ieeexplore.ieee.org/abstract/document/10018035) | Alon Harell |  | PCS2022 | | |
+|  | [Lossy Compression for Lossless Prediction](https://openreview.net/pdf?id=wZrOOO9XBn) | Yann Dubois |  | NeurIPS 2021 Spotlight | | [Github](https://github.com/YannDubs/lossyless) |
 |  | [Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics](https://ieeexplore.ieee.org/abstract/document/9180095) | Lingyu Duan |  | TIP2020 | Video |  |
 |  | [On The Classification-Distortion-Perception Tradeoff](https://proceedings.neurips.cc/paper_files/paper/2019) | Dong Liu |  | NeurIPS2019 | |  |
 ### Compress-Then-Analysis
@@ -31,6 +33,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | VNVC | [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
 | | [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/10379180) | Mingyi Yang |  | TCSVT2024 | Image | |
+| | [Unified Architecture Adaptation for Compressed Domain Semantic Inference](https://ieeexplore.ieee.org/abstract/document/10379180) | Zhihao Duan |  | TCSVT2023 | Image | |
 |TransTIC| [TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransTIC_Transferring_Transformer-based_Image_Compression_from_Human_Perception_to_Machine_ICCV_2023_paper.pdf) | Yi-Hsin Chen | prompt | ICCV2023 | Image | [Github](https://github.com/NYCU-MAPL/TransTIC) |
 |GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
 | | [SMachine Perception-Driven Image Compression: A Layered Generative Approach](https://arxiv.org/pdf/2304.06896.pdf) | Yuefeng Zhang | | PrePrint'23 | Image | |
@@ -48,16 +51,20 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Image coding for machines: an end-to-end learned approach](https://ieeexplore.ieee.org/abstract/document/9414465) | Nam Le |  | ICASSP2021 | Image | |
 | SSIC | [Semantic Structured Image Coding Framework for Multiple Intelligent Applications](https://ieeexplore.ieee.org/abstract/document/9281078) | Simeng Sun |  | TCSVT2020 | Image | |
 | | [High Efficiency Compression for Object Detection](https://ieeexplore.ieee.org/abstract/document/8462653) | Hyomin Choi |  | ICASSP2018 | Image | |
+| | [Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper_files/paper/2018/file/7af6266cc52234b5aa339b16695f7fc4-Paper.pdf) | Lionel Gueguen |  | NeurIPS2018 | Image | [Github](https://github.com/uber-research/jpeg2dct) |
+| | [Towards Image Understanding from Deep Compression Without Decoding](https://openreview.net/pdf?id=HkXWCMbRW) | Robert Torfason |  | ICLR2018 | Image | |
 ### Feature-Compression
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [End-to-End Learnable Multi-Scale Feature Compression for VCM](https://ieeexplore.ieee.org/abstract/document/10210338) | Yeongwoong Kim  |  | TCSVT2023 | Video |  | 
 | Prompt-ICM | [Prompt-ICM: A Uniﬁed Framework towards Image Coding for Machines with Task-driven Prompts](https://arxiv.org/pdf/2305.02578) | Ruoyu Feng & Jinming Liu |  | PrePrint'23 | Image |  |
 | | [Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach](https://dl.acm.org/doi/abs/10.1145/3581783.3611851) | Sha Guo |  | ACMMM2023 | Image |  |
-| | [Semantic Segmentation In Learned Compressed Domain](https://ieeexplore.ieee.org/abstract/document/10018036) | Jinming Liu |  | PCS2022(best paper) | Image |  |
+| | [Semantic Segmentation In Learned Compressed Domain](https://ieeexplore.ieee.org/abstract/document/10018036) | Jinming Liu |  | PCS2022(Best Paper Award Finalists) | Image |  |
+| | [Efficient Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/document/10018075) | Zhihao Duan |  | PCS2022(Best Paper Award Finalists) | Image | [Github](https://github.com/duanzhiihao/edge-cloud-rac)  |
 | | [Image Coding for Machines with Omnipotent Feature Learning](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_29) | Ruoyu Feng |  | ECCV2022 | Image |  |
 | | [Improving Multiple Machine Vision Tasks in the Compressed Domain](https://ieeexplore.ieee.org/abstract/document/9956532) | Jinming Liu |  | ICPR2022 | Image |  |
 | | [Learning from the CNN-based Compressed Domain](https://openaccess.thecvf.com/content/WACV2022/html/Wang_Learning_From_the_CNN-Based_Compressed_Domain_WACV_2022_paper.html) | Zhenzhen Wang |  | WACV2022 | Image |  |
+| | [Supervised Compression for Resource-Constrained Edge Computing Systems](https://openaccess.thecvf.com/content/WACV2022/papers/Matsubara_Supervised_Compression_for_Resource-Constrained_Edge_Computing_Systems_WACV_2022_paper.pdf) | Yoshitomo Matsubara |  | WACV2022 | Image | [Github](https://github.com/yoshitomo-matsubara/supervised-compression) |
 | | [Bridging the Gap Between Image Coding for Machines and Humans](https://ieeexplore.ieee.org/abstract/document/9897916) | Nam Le |  | ICIP2022 | Image |  |
 | | [Learning in Compressed Domain for Faster Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/9675369) | Jinming Liu |  | VCIP2021 | Image |  |
 | | [Learning in the Frequency Domain](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.html) | Kai Xu |  | CVPR2020 | Image | [Github](https://github.com/kaix90/DCTNet) |
