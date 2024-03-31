@@ -20,7 +20,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
   - [All Datasets](#all-datasets) -->
 
 ### Survey-&-Theory
-|Models| Paper | First Author | Training Way | Venue | Data | Project |
+|Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |  | [Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics](https://ieeexplore.ieee.org/abstract/document/10440522) | Wenhan Yang, Haofeng Huang and Yueyu Hu |  | TPAMI2024 | Video | |
 |  | [Rate-Distortion Theory in Coding for Machines and its Applications](https://arxiv.org/pdf/2305.17295.pdf) | Alon Harell |  | PrePrint'23 | | |
@@ -31,6 +31,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Training Way | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
 | | [Controlling Encoder of Deep Video Compression for Machine]() | Xingtong Ge | | CVPR2024 | Video | |
 |VNVC| [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
 | | [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/10379180) | Mingyi Yang |  | TCSVT2024 | Image | |
@@ -45,7 +46,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Boosting Neural Image Compression for Machines Using Latent Space Masking](https://ieeexplore.ieee.org/abstract/document/9845478) | Kristian Fischer |  | TCSVT2022 | Image | [Github](https://github.com/FAU-LMS/NCN_for_M2M) |
 | | [Perceptual Video Coding for Machines via Satisfied Machine Ratio Modeling](https://arxiv.org/pdf/2211.06797.pdf) | Qi Zhang |  | PrePrint'22 | Video | [Github](https://github.com/ywwynm/SMR) |
 | | [Preprocessing Enhanced Image Compression for Machine Vision](https://arxiv.org/pdf/2206.05650.pdf) | Guo Lu |  | PrePrint'22 | Image | |
-|QmapCompression| [Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf) | Myungseo Song |  | ICCV2021 | Image | [Github](https://github.com/micmic123/QmapCompression?tab=readme-ov-file)|
+|QmapCompression| [Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf) | Myungseo Song | benefit for ICM | ICCV2021 | Image | [Github](https://github.com/micmic123/QmapCompression?tab=readme-ov-file)|
 | | [A Novel Video Coding Strategy in HEVC for Object Detection](https://ieeexplore.ieee.org/abstract/document/9343857) | Qi Cai |  | TCSVT2021 | Video | |
 | | [Task-Driven Semantic Coding via Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9472999) | Xin Li |  | TIP2021 | Image | |
 | | [Learned Image Coding for Machines: A Content-Adaptive Approach](https://ieeexplore.ieee.org/abstract/document/9428224) | Nam Le |  | ICME2021 | Image | |
