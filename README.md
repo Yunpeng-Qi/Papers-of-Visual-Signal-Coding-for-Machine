@@ -32,6 +32,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
+|SegPIC| [Region-Adaptive Transform with Segmentation Prior for Image Compression](https://arxiv.org/pdf/2403.00628.pdf) | Yuxi Liu | benefit for ICM | PrePrint'24 | Image | [Github](https://github.com/GityuxiLiu/SegPIC-for-Image-Compression)|
 | | [Controlling Encoder of Deep Video Compression for Machine]() | Xingtong Ge | | CVPR2024 | Video | |
 |VNVC| [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
 | | [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/10379180) | Mingyi Yang |  | TCSVT2024 | Image | |
@@ -43,6 +44,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Composable Image Coding for Machine via Task-oriented Internal Adaptor and External Prior](https://ieeexplore.ieee.org/abstract/document/10402659) | Jinming Liu | adapter | VCIP2023 | Image |  |
 | | [Image Coding for Machines based on Non-Uniform Importance Allocation](https://ieeexplore.ieee.org/abstract/document/10402758) | Yunpeng Qi |  | VCIP2023 | Image | |
 | | [Saliency-Driven Hierarchical Learned Image Coding for Machines](https://ieeexplore.ieee.org/abstract/document/10096674) | Kristian Fischer |  | ICASSP2023 | Image | |
+|Neural-Syntax| [Neural Data-Dependent Transform for Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Data-Dependent_Transform_for_Learned_Image_Compression_CVPR_2022_paper.pdf) | Dezhao Wang | benefit for ICM | CVPR2022 | Image | [Github]([https://github.com/FAU-LMS/NCN_for_M2M](https://github.com/Dezhao-Wang/Neural-Syntax-Code)) [Project](https://dezhao-wang.github.io/Neural-Syntax-Website/) |
 | | [Boosting Neural Image Compression for Machines Using Latent Space Masking](https://ieeexplore.ieee.org/abstract/document/9845478) | Kristian Fischer |  | TCSVT2022 | Image | [Github](https://github.com/FAU-LMS/NCN_for_M2M) |
 | | [Perceptual Video Coding for Machines via Satisfied Machine Ratio Modeling](https://arxiv.org/pdf/2211.06797.pdf) | Qi Zhang |  | PrePrint'22 | Video | [Github](https://github.com/ywwynm/SMR) |
 | | [Preprocessing Enhanced Image Compression for Machine Vision](https://arxiv.org/pdf/2206.05650.pdf) | Guo Lu |  | PrePrint'22 | Image | |
