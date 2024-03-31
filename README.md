@@ -22,11 +22,11 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Survey-&-Theory
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|  | [Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics](https://ieeexplore.ieee.org/abstract/document/10440522) | Wenhan Yang, Haofeng Huang and Yueyu Hu |  | TPAMI2024 | Video | |
+|  | [Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics](https://ieeexplore.ieee.org/abstract/document/10440522) | Wenhan Yang, Haofeng Huang and Yueyu Hu | survey | TPAMI2024 | Video | |
 |  | [Rate-Distortion Theory in Coding for Machines and its Applications](https://arxiv.org/pdf/2305.17295.pdf) | Alon Harell |  | PrePrint'23 | | |
 |  | [Rate-Distortion in Image Coding for Machines](https://ieeexplore.ieee.org/abstract/document/10018035) | Alon Harell |  | PCS2022 | | |
 |  | [Lossy Compression for Lossless Prediction](https://openreview.net/pdf?id=wZrOOO9XBn) | Yann Dubois |  | NeurIPS 2021 Spotlight | | [Github](https://github.com/YannDubs/lossyless) |
-|  | [Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics](https://ieeexplore.ieee.org/abstract/document/9180095) | Lingyu Duan |  | TIP2020 | Video |  |
+|  | [Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics](https://ieeexplore.ieee.org/abstract/document/9180095) | Lingyu Duan | survey | TIP2020 | Video |  |
 |  | [On The Classification-Distortion-Perception Tradeoff](https://proceedings.neurips.cc/paper_files/paper/2019) | Dong Liu |  | NeurIPS2019 | |  |
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
