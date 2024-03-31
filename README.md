@@ -29,7 +29,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics](https://ieeexplore.ieee.org/abstract/document/9180095) | Lingyu Duan |  | TIP2020 | Video |  |
 |  | [On The Classification-Distortion-Perception Tradeoff](https://proceedings.neurips.cc/paper_files/paper/2019) | Dong Liu |  | NeurIPS2019 | |  |
 ### Compress-Then-Analysis
-|Models| Paper | First Author | Training Way | Venue | Data | Project |
+|Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
 | | [Controlling Encoder of Deep Video Compression for Machine]() | Xingtong Ge | | CVPR2024 | Video | |
@@ -57,7 +57,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper_files/paper/2018/file/7af6266cc52234b5aa339b16695f7fc4-Paper.pdf) | Lionel Gueguen |  | NeurIPS2018 | Image | [Github](https://github.com/uber-research/jpeg2dct) |
 | | [Towards Image Understanding from Deep Compression Without Decoding](https://openreview.net/pdf?id=HkXWCMbRW) | Robert Torfason |  | ICLR2018 | Image | |
 ### Feature-Compression
-|Model| Paper | First Author | Training Way | Venue | Topic | Project |
+|Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [End-to-End Learnable Multi-Scale Feature Compression for VCM](https://ieeexplore.ieee.org/abstract/document/10210338) | Yeongwoong Kim  |  | TCSVT2023 | Video |  | 
 | Prompt-ICM | [Prompt-ICM: A Uniﬁed Framework towards Image Coding for Machines with Task-driven Prompts](https://arxiv.org/pdf/2305.02578) | Ruoyu Feng & Jinming Liu |  | PrePrint'23 | Image |  |
@@ -75,7 +75,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Toward Intelligent Sensing: Intermediate Deep Feature Compression](https://ieeexplore.ieee.org/abstract/document/8848858) | Zhuo Chen |  | TIP2019 | Image |  |
 | | [Deep Feature Compression for Collaborative Object Detection](https://ieeexplore.ieee.org/abstract/document/8451100) | Hyomin Choi |  | ICIP2018 | Image | |
 ### Joint-Human-and-Machine-Vision
-|Model| Paper | First Author | Training Way | Venue | Topic | Project |
+|Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
 | | [Learned point cloud compression for classification](https://ieeexplore.ieee.org/abstract/document/10337709) | Mateen Ulhaq |  | MMSP2023 | Pointcloud |  | 
