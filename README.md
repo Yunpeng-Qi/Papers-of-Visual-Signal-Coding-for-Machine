@@ -66,7 +66,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach](https://dl.acm.org/doi/abs/10.1145/3581783.3611851) | Sha Guo |  | ACMMM2023 | Image |  |
 | | [Semantic Segmentation In Learned Compressed Domain](https://ieeexplore.ieee.org/abstract/document/10018036) | Jinming Liu |  | PCS2022(Best Paper Award Finalists) | Image |  |
 | | [Efficient Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/document/10018075) | Zhihao Duan |  | PCS2022(Best Paper Award Finalists) | Image | [Github](https://github.com/duanzhiihao/edge-cloud-rac)  |
-| | [Image Coding for Machines with Omnipotent Feature Learning](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_29) | Ruoyu Feng |  | ECCV2022 | Image |  |
+|Omni-ICM| [Image Coding for Machines with Omnipotent Feature Learning](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_29) | Ruoyu Feng |  | ECCV2022 | Image |  |
 | | [Improving Multiple Machine Vision Tasks in the Compressed Domain](https://ieeexplore.ieee.org/abstract/document/9956532) | Jinming Liu |  | ICPR2022 | Image |  |
 | | [Learning from the CNN-based Compressed Domain](https://openaccess.thecvf.com/content/WACV2022/html/Wang_Learning_From_the_CNN-Based_Compressed_Domain_WACV_2022_paper.html) | Zhenzhen Wang |  | WACV2022 | Image |  |
 | | [Supervised Compression for Resource-Constrained Edge Computing Systems](https://openaccess.thecvf.com/content/WACV2022/papers/Matsubara_Supervised_Compression_for_Resource-Constrained_Edge_Computing_Systems_WACV_2022_paper.pdf) | Yoshitomo Matsubara |  | WACV2022 | Image | [Github](https://github.com/yoshitomo-matsubara/supervised-compression) |
