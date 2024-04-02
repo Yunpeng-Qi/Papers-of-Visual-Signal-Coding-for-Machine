@@ -61,7 +61,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Feature-Compression
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  |  | ICME2023 | Image | Github[https://github.com/adnan-hossain/var-feat-comp] | 
+|var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  |  | ICME2023 | Image | [Github](https://github.com/adnan-hossain/var-feat-comp) | 
 | | [End-to-End Learnable Multi-Scale Feature Compression for VCM](https://ieeexplore.ieee.org/abstract/document/10210338) | Yeongwoong Kim  |  | TCSVT2023 | Video |  | 
 | Prompt-ICM | [Prompt-ICM: A Uniﬁed Framework towards Image Coding for Machines with Task-driven Prompts](https://arxiv.org/pdf/2305.02578) | Ruoyu Feng & Jinming Liu |  | PrePrint'23 | Image |  |
 | | [Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach](https://dl.acm.org/doi/abs/10.1145/3581783.3611851) | Sha Guo |  | ACMMM2023 | Image |  |
