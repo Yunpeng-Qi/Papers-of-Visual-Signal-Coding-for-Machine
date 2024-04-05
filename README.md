@@ -35,10 +35,11 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |SegPIC| [Region-Adaptive Transform with Segmentation Prior for Image Compression](https://arxiv.org/pdf/2403.00628.pdf) | Yuxi Liu | benefit for ICM | PrePrint'24 | Image | [Github](https://github.com/GityuxiLiu/SegPIC-for-Image-Compression)|
 | | [Controlling Encoder of Deep Video Compression for Machine]() | Xingtong Ge | | CVPR2024 | Video | |
 |VNVC| [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
-| | [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/10379180) | Mingyi Yang |  | TCSVT2024 | Image | |
+| | [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/10379180) | Mingyi Yang | multi-task | TCSVT2024 | Image | |
 | | [Unified Architecture Adaptation for Compressed Domain Semantic Inference](https://ieeexplore.ieee.org/abstract/document/10379180) | Zhihao Duan |  | TCSVT2023 | Image | |
 |TransTIC| [TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransTIC_Transferring_Transformer-based_Image_Compression_from_Human_Perception_to_Machine_ICCV_2023_paper.pdf) | Yi-Hsin Chen | prompt | ICCV2023 | Image | [Github](https://github.com/NYCU-MAPL/TransTIC) |
 |GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
+|MCM| [You Can Mask More For Extremely Low-Bitrate Image Compression](https://arxiv.org/pdf/2306.15561.pdf) | Anqi Li | benefit for ICM | PrePrint'23 | Image | [Github](https://github.com/lianqi1008/MCM) |
 | | [SMachine Perception-Driven Image Compression: A Layered Generative Approach](https://arxiv.org/pdf/2304.06896.pdf) | Yuefeng Zhang | | PrePrint'23 | Image | |
 | | [Towards Efficient Learned Image Coding for Machines via Saliency-Driven Rate Allocation](https://ieeexplore.ieee.org/abstract/document/10402607) | Zixiang Zhang |  | VCIP2023 | Image |  |
 | | [Composable Image Coding for Machine via Task-oriented Internal Adaptor and External Prior](https://ieeexplore.ieee.org/abstract/document/10402659) | Jinming Liu | adapter | VCIP2023 | Image |  |
@@ -61,6 +62,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Feature-Compression
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+|NEC| [Neural Embedding Compression For Efficient Multi-Task Earth Observation Modelling](https://arxiv.org/pdf/2403.17886.pdf) | Carlos Gomes  | multi-task | PrePrint'24 | Earth Observation Data | | 
 |var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  | variable-rate | ICME workshop2023 | Image | [Github](https://github.com/adnan-hossain/var-feat-comp) | 
 | | [End-to-End Learnable Multi-Scale Feature Compression for VCM](https://ieeexplore.ieee.org/abstract/document/10210338) | Yeongwoong Kim  |  | TCSVT2023 | Video |  | 
 | Prompt-ICM | [Prompt-ICM: A Uniﬁed Framework towards Image Coding for Machines with Task-driven Prompts](https://arxiv.org/pdf/2305.02578) | Ruoyu Feng & Jinming Liu |  | PrePrint'23 | Image |  |
