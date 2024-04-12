@@ -75,6 +75,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Learning from the CNN-based Compressed Domain](https://openaccess.thecvf.com/content/WACV2022/html/Wang_Learning_From_the_CNN-Based_Compressed_Domain_WACV_2022_paper.html) | Zhenzhen Wang |  | WACV2022 | Image |  |
 | | [Supervised Compression for Resource-Constrained Edge Computing Systems](https://openaccess.thecvf.com/content/WACV2022/papers/Matsubara_Supervised_Compression_for_Resource-Constrained_Edge_Computing_Systems_WACV_2022_paper.pdf) | Yoshitomo Matsubara |  | WACV2022 | Image | [Github](https://github.com/yoshitomo-matsubara/supervised-compression) |
 | | [Bridging the Gap Between Image Coding for Machines and Humans](https://ieeexplore.ieee.org/abstract/document/9897916) | Nam Le |  | ICIP2022 | Image |  |
+| | [Enhancing Image Coding for Machines with Compressed Feature Residuals](https://ieeexplore.ieee.org/document/9666106) | Joni Seppälä |  | ISM2021 | Image |  |
 | | [Learning in Compressed Domain for Faster Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/9675369) | Jinming Liu |  | VCIP2021 | Image |  |
 | | [Learning in the Frequency Domain](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.html) | Kai Xu |  | CVPR2020 | Image | [Github](https://github.com/kaix90/DCTNet) |
 | | [Lossy Intermediate Deep Learning Feature Compression and Evaluation](https://dl.acm.org/doi/abs/10.1145/3343031.3350849) | Zhuo Chen |  | ACMMM2019 | Image |  |
