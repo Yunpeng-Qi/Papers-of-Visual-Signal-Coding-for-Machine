@@ -87,6 +87,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
+| | [Adaptive Human-Centric Video Compression for Humans and Machines](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jiang_Adaptive_Human-Centric_Video_Compression_for_Humans_and_Machines_CVPRW_2023_paper.pdf) | Wei Jiang | VQ | CVPR workshop 2023 | Video |  | 
 | | [Learned point cloud compression for classification](https://ieeexplore.ieee.org/abstract/document/10337709) | Mateen Ulhaq |  | MMSP2023 | Pointcloud |  | 
 | | [Learned Scalable Video Coding For Humans and Machines](https://arxiv.org/pdf/2307.08978.pdf) | Hadi Hadizadeh |  | PrePrint'23 | Video |  | 
 | | [Scalable Face Image Coding via StyleGAN Prior: Toward Compression for Human-Machine Collaborative Vision](https://ieeexplore.ieee.org/abstract/document/10372532) | Qi Mao  |  | TIP2023 | Image |  | 
