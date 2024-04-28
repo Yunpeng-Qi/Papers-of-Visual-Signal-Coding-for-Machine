@@ -39,7 +39,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Unified Architecture Adaptation for Compressed Domain Semantic Inference](https://ieeexplore.ieee.org/abstract/document/10379180) | Zhihao Duan |  | TCSVT2023 | Image | |
 | SMC | [Nonsemantics suppressed mask learning for unsupervised video semantic compression.](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Non-Semantics_Suppressed_Mask_Learning_for_Unsupervised_Video_Semantic_Compression_ICCV_2023_paper.pdf) | Yuan Tian |  | ICCV2023 | Video | |
 |TransTIC| [TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransTIC_Transferring_Transformer-based_Image_Compression_from_Human_Perception_to_Machine_ICCV_2023_paper.pdf) | Yi-Hsin Chen | prompt | ICCV2023 | Image | [Github](https://github.com/NYCU-MAPL/TransTIC) |
-|GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
 |MCM| [You Can Mask More For Extremely Low-Bitrate Image Compression](https://arxiv.org/pdf/2306.15561.pdf) | Anqi Li | benefit for ICM | PrePrint'23 | Image | [Github](https://github.com/lianqi1008/MCM) |
 | | [SMachine Perception-Driven Image Compression: A Layered Generative Approach](https://arxiv.org/pdf/2304.06896.pdf) | Yuefeng Zhang | | PrePrint'23 | Image | |
 | | [Towards Efficient Learned Image Coding for Machines via Saliency-Driven Rate Allocation](https://ieeexplore.ieee.org/abstract/document/10402607) | Zixiang Zhang |  | VCIP2023 | Image |  |
@@ -56,7 +55,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Learned Image Coding for Machines: A Content-Adaptive Approach](https://ieeexplore.ieee.org/abstract/document/9428224) | Nam Le |  | ICME2021 | Image | |
 | | [Visual Analysis Motivated Rate-Distortion Model for Image Coding](https://ieeexplore.ieee.org/abstract/document/9428417) | Zhimeng Huang |  | ICME2021 | Image | |
 | | [Image coding for machines: an end-to-end learned approach](https://ieeexplore.ieee.org/abstract/document/9414465) | Nam Le |  | ICASSP2021 | Image | |
-| SSIC | [Semantic Structured Image Coding Framework for Multiple Intelligent Applications](https://ieeexplore.ieee.org/abstract/document/9281078) | Simeng Sun |  | TCSVT2020 | Image | |
 | | [High Efficiency Compression for Object Detection](https://ieeexplore.ieee.org/abstract/document/8462653) | Hyomin Choi |  | ICASSP2018 | Image | |
 | | [Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper_files/paper/2018/file/7af6266cc52234b5aa339b16695f7fc4-Paper.pdf) | Lionel Gueguen |  | NeurIPS2018 | Image | [Github](https://github.com/uber-research/jpeg2dct) |
 | | [Towards Image Understanding from Deep Compression Without Decoding](https://openreview.net/pdf?id=HkXWCMbRW) | Robert Torfason |  | ICLR2018 | Image | |
@@ -83,26 +81,31 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Toward Intelligent Sensing: Intermediate Deep Feature Compression](https://ieeexplore.ieee.org/abstract/document/8848858) | Zhuo Chen |  | TIP2019 | Image |  |
 | | [End-to-End Optimized ROI Image Compression](https://ieeexplore.ieee.org/document/8943263) | Chunlei Cai |  | TIP2019 | Image |  |
 | | [Deep Feature Compression for Collaborative Object Detection](https://ieeexplore.ieee.org/abstract/document/8451100) | Hyomin Choi |  | ICIP2018 | Image | |
+| | [Near-Lossless Deep Feature Compression for Collaborative Intelligence](https://arxiv.org/pdf/1804.09963) | Hyomin Choi |  | MMSP2018 | Image | |
 ### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Task-Aware Encoder Control for Deep Video Compression](https://arxiv.org/pdf/2404.04848.pdf) | Xingtong Ge | | CVPR2024 | Video | |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
+|GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
 | | [Adaptive Human-Centric Video Compression for Humans and Machines](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jiang_Adaptive_Human-Centric_Video_Compression_for_Humans_and_Machines_CVPRW_2023_paper.pdf) | Wei Jiang | VQ | CVPR workshop 2023 | Video |  | 
 | | [Learned point cloud compression for classification](https://ieeexplore.ieee.org/abstract/document/10337709) | Mateen Ulhaq |  | MMSP2023 | Pointcloud |  | 
 | | [Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10125297) | Ezgi Ozyılkan |  | DCC2023 | Image |  | 
 | | [Learned Scalable Video Coding For Humans and Machines](https://arxiv.org/pdf/2307.08978.pdf) | Hadi Hadizadeh |  | PrePrint'23 | Video |  | 
 | | [Scalable Face Image Coding via StyleGAN Prior: Toward Compression for Human-Machine Collaborative Vision](https://ieeexplore.ieee.org/abstract/document/10372532) | Qi Mao  |  | TIP2023 | Image |  | 
-| ICMH-Net | [ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision](https://dl.acm.org/doi/abs/10.1145/3581783.3612041) | Lei Liu |  | ACMMM2023 | Image |  | 
-| DeepSVC | [DeepSVC: Deep Scalable Video Coding for Both Machine and Human Vision](https://dl.acm.org/doi/abs/10.1145/3581783.3612500) | Hongbin Lin |  | ACMMM2023 | Video |  | 
-|  | [Peering into The Sketch: Ultra-Low Bitrate Face Compression for Joint Human and Machine Perception](https://dl.acm.org/doi/abs/10.1145/3581783.3613799) | Yudong Mao |  | ACMMM2023 | Image |  | 
+| ICMH-Net | [ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision](https://dl.acm.org/doi/abs/10.1145/3581783.3612041) | Lei Liu |  | ACM MM2023 | Image |  | 
+| DeepSVC | [DeepSVC: Deep Scalable Video Coding for Both Machine and Human Vision](https://dl.acm.org/doi/abs/10.1145/3581783.3612500) | Hongbin Lin |  | ACM MM2023 | Video |  | 
+|  | [Peering into The Sketch: Ultra-Low Bitrate Face Compression for Joint Human and Machine Perception](https://dl.acm.org/doi/abs/10.1145/3581783.3613799) | Yudong Mao |  | ACM MM2023 | Image |  | 
 |  | [Sketch Assisted Face Image Coding for Human and Machine Vision: A Joint Training Approach](https://ieeexplore.ieee.org/abstract/document/10082973) | Xin Fang |  | TCSVT2023 | Image |  | 
 |  | [Base Layer Efficiency in Scalable Human-Machine Coding](https://ieeexplore.ieee.org/abstract/document/10223087) | Yalda Foroutan |  | ICIP2023 | Image |  | 
 |  | [Scalable Image Coding for Humans and Machines](https://ieeexplore.ieee.org/abstract/document/9741390) | Hyomin Choi |  | TIP2022 | Image |  | 
 |  | [HMFVC: A Human-Machine Friendly Video Compression Scheme](https://ieeexplore.ieee.org/abstract/document/9894405) | Zhimeng Huang |  | TCSVT2022 | Video |  | 
 |  | [Bridging the gap between image coding for machines and humans](https://ieeexplore.ieee.org/abstract/document/9897916) | Nam Le |  | ICIP2022 | Image |  | 
+|  | [Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations](https://link.springer.com/article/10.1007/s11263-021-01491-7) | Kang Liu |  | IJCV2021 | Image |  | 
 |  | [Towards Analysis-Friendly Face Representation With Scalable Feature and Texture Compression](https://ieeexplore.ieee.org/document/9473014) | Shurun Wang |  | TMM2021 | Image |  | 
 | SSSIC | [SSSIC: Semantics-to-Signal Scalable Image Coding With Learned Structural Representations](https://ieeexplore.ieee.org/document/9585549) | Ning Yan |  | TIP2021 | Image |  | 
 |  | [Towards coding for human and machine vision: Scalable face image coding](https://ieeexplore.ieee.org/abstract/document/9385898) | Shuai Yang |  | TMM2021 | Image |  | 
-|  | [Semantic Scalable Image Compression with Cross-Layer Priors](https://dl.acm.org/doi/abs/10.1145/3474085.3475533) | Hanyue Tu |  | ACMMM2021 | Image |  | 
+|  | [Semantic Scalable Image Compression with Cross-Layer Priors](https://dl.acm.org/doi/abs/10.1145/3474085.3475533) | Hanyue Tu |  | ACM MM2021 | Image |  | 
+|  | [Latent-space scalability for multi-task collaborative intelligence](https://arxiv.org/pdf/2105.10089) | Hyomin Choi |  | ICIP2021 | Image |  | 
+| SSIC | [Semantic Structured Image Coding Framework for Multiple Intelligent Applications](https://ieeexplore.ieee.org/abstract/document/9281078) | Simeng Sun |  | TCSVT2020 | Image | |
 |  | [Towards Coding for Human and Machine Vision: A Scalable Image Coding Approach](https://arxiv.org/abs/2001.02915) | Yueyu Hu  |  | ICME2020 | Image |  [Project](https://williamyang1991.github.io/projects/VCM-Face/)  | 
