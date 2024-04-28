@@ -89,6 +89,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
 | | [Adaptive Human-Centric Video Compression for Humans and Machines](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jiang_Adaptive_Human-Centric_Video_Compression_for_Humans_and_Machines_CVPRW_2023_paper.pdf) | Wei Jiang | VQ | CVPR workshop 2023 | Video |  | 
 | | [Learned point cloud compression for classification](https://ieeexplore.ieee.org/abstract/document/10337709) | Mateen Ulhaq |  | MMSP2023 | Pointcloud |  | 
+| | [Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10125297) | Ezgi Ozyılkan |  | DCC2023 | Image |  | 
 | | [Learned Scalable Video Coding For Humans and Machines](https://arxiv.org/pdf/2307.08978.pdf) | Hadi Hadizadeh |  | PrePrint'23 | Video |  | 
 | | [Scalable Face Image Coding via StyleGAN Prior: Toward Compression for Human-Machine Collaborative Vision](https://ieeexplore.ieee.org/abstract/document/10372532) | Qi Mao  |  | TIP2023 | Image |  | 
 | ICMH-Net | [ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision](https://dl.acm.org/doi/abs/10.1145/3581783.3612041) | Lei Liu |  | ACMMM2023 | Image |  | 
@@ -98,6 +99,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Scalable Image Coding for Humans and Machines](https://ieeexplore.ieee.org/abstract/document/9741390) | Hyomin Choi |  | TIP2022 | Image |  | 
 |  | [HMFVC: A Human-Machine Friendly Video Compression Scheme](https://ieeexplore.ieee.org/abstract/document/9894405) | Zhimeng Huang |  | TCSVT2022 | Video |  | 
 |  | [Bridging the gap between image coding for machines and humans](https://ieeexplore.ieee.org/abstract/document/9897916) | Nam Le |  | ICIP2022 | Image |  | 
+|  | [Towards Analysis-Friendly Face Representation With Scalable Feature and Texture Compression](https://ieeexplore.ieee.org/document/9473014) | Shurun Wang |  | TMM2021 | Image |  | 
+|  | [SSSIC: Semantics-to-Signal Scalable Image Coding With Learned Structural Representations](https://ieeexplore.ieee.org/document/9585549) | Ning Yan |  | TIP2021 | Image |  | 
 |  | [Towards coding for human and machine vision: Scalable face image coding](https://ieeexplore.ieee.org/abstract/document/9385898) | Shuai Yang |  | TMM2021 | Image |  | 
 |  | [Semantic Scalable Image Compression with Cross-Layer Priors](https://dl.acm.org/doi/abs/10.1145/3474085.3475533) | Hanyue Tu |  | ACMMM2021 | Image |  | 
 |  | [Towards Coding for Human and Machine Vision: A Scalable Image Coding Approach](https://arxiv.org/abs/2001.02915) | Yueyu Hu  |  | ICME2020 | Image |  [Project](https://williamyang1991.github.io/projects/VCM-Face/)  | 
