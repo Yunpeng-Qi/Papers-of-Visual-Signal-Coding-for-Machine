@@ -33,11 +33,10 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
 |SegPIC| [Region-Adaptive Transform with Segmentation Prior for Image Compression](https://arxiv.org/pdf/2403.00628.pdf) | Yuxi Liu | benefit for ICM | PrePrint'24 | Image | [Github](https://github.com/GityuxiLiu/SegPIC-for-Image-Compression)|
-| | [Task-Aware Encoder Control for Deep Video Compression](https://arxiv.org/pdf/2404.04848.pdf) | Xingtong Ge | | CVPR2024 | Video | |
 |VNVC| [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
 | | [Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks](https://ieeexplore.ieee.org/abstract/document/10379180) | Mingyi Yang | multi-task | TCSVT2024 | Image | |
 | | [Unified Architecture Adaptation for Compressed Domain Semantic Inference](https://ieeexplore.ieee.org/abstract/document/10379180) | Zhihao Duan |  | TCSVT2023 | Image | |
-| | [Non-Semantics Suppressed Mask Learning for Unsupervised Video Semantic](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Non-Semantics_Suppressed_Mask_Learning_for_Unsupervised_Video_Semantic_Compression_ICCV_2023_paper.pdf) | Yuan Tian |  | ICCV2023 | Video | |
+| | [Nonsemantics suppressed mask learning for unsupervised video semantic compression.](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Non-Semantics_Suppressed_Mask_Learning_for_Unsupervised_Video_Semantic_Compression_ICCV_2023_paper.pdf) | Yuan Tian |  | ICCV2023 | Video | |
 |TransTIC| [TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransTIC_Transferring_Transformer-based_Image_Compression_from_Human_Perception_to_Machine_ICCV_2023_paper.pdf) | Yi-Hsin Chen | prompt | ICCV2023 | Image | [Github](https://github.com/NYCU-MAPL/TransTIC) |
 |GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
 |MCM| [You Can Mask More For Extremely Low-Bitrate Image Compression](https://arxiv.org/pdf/2306.15561.pdf) | Anqi Li | benefit for ICM | PrePrint'23 | Image | [Github](https://github.com/lianqi1008/MCM) |
@@ -86,6 +85,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [Task-Aware Encoder Control for Deep Video Compression](https://arxiv.org/pdf/2404.04848.pdf) | Xingtong Ge | | CVPR2024 | Video | |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
 | | [Adaptive Human-Centric Video Compression for Humans and Machines](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jiang_Adaptive_Human-Centric_Video_Compression_for_Humans_and_Machines_CVPRW_2023_paper.pdf) | Wei Jiang | VQ | CVPR workshop 2023 | Video |  | 
 | | [Learned point cloud compression for classification](https://ieeexplore.ieee.org/abstract/document/10337709) | Mateen Ulhaq |  | MMSP2023 | Pointcloud |  | 
