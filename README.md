@@ -31,6 +31,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [A Coding Framework and Benchmark towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440520) | Yuan Tian | | TPAMI2024 | Video | |
 | | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
 |SegPIC| [Region-Adaptive Transform with Segmentation Prior for Image Compression](https://arxiv.org/pdf/2403.00628.pdf) | Yuxi Liu | benefit for ICM | PrePrint'24 | Image | [Github](https://github.com/GityuxiLiu/SegPIC-for-Image-Compression)|
 |VNVC| [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
