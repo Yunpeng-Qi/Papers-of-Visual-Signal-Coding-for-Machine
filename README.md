@@ -22,6 +22,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Survey-&-Theory
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+|  | [A Rate-Distortion-Classification Approach for Lossy Image Compression](https://arxiv.org/pdf/2405.03500) | Yuefeng Zhang |  | PrePrint'24 | | |
 |  | [Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics](https://ieeexplore.ieee.org/abstract/document/10440522) | Wenhan Yang, Haofeng Huang and Yueyu Hu | survey | TPAMI2024 | Video | |
 |  | [Rate-Distortion Theory in Coding for Machines and its Applications](https://arxiv.org/pdf/2305.17295.pdf) | Alon Harell |  | PrePrint'23 | | |
 |  | [Rate-Distortion in Image Coding for Machines](https://ieeexplore.ieee.org/abstract/document/10018035) | Alon Harell |  | PCS2022 | | |
@@ -61,6 +62,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Feature-Compression
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+|| [Hierarchical Image Feature Compression for Machines via Feature Sparsity Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502180) | Ding Ding  | | IEEE Signal Processing 2024 | Image | | 
+|var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  | variable-rate | ICME workshop2023 | Image | [Github](https://github.com/adnan-hossain/var-feat-comp) | 
 |NEC| [Neural Embedding Compression For Efficient Multi-Task Earth Observation Modelling](https://arxiv.org/pdf/2403.17886.pdf) | Carlos Gomes  | multi-task | PrePrint'24 | Earth Observation Data | | 
 |var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  | variable-rate | ICME workshop2023 | Image | [Github](https://github.com/adnan-hossain/var-feat-comp) | 
 | | [End-to-End Learnable Multi-Scale Feature Compression for VCM](https://ieeexplore.ieee.org/abstract/document/10210338) | Yeongwoong Kim  |  | TCSVT2023 | Video |  | 
