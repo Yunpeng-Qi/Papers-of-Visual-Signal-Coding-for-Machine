@@ -33,6 +33,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [A Coding Framework and Benchmark towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440520) | Yuan Tian | | TPAMI2024 | Video | |
+| | [Task-Aware Encoder Control for Deep Video Compression](https://arxiv.org/pdf/2404.04848.pdf) | Xingtong Ge | Encoder Control | CVPR2024 | Video | |
 | | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
 |SegPIC| [Region-Adaptive Transform with Segmentation Prior for Image Compression](https://arxiv.org/pdf/2403.00628.pdf) | Yuxi Liu | benefit for ICM | PrePrint'24 | Image | [Github](https://github.com/GityuxiLiu/SegPIC-for-Image-Compression)|
 |VNVC| [VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/abstract/document/10411051) | Xihua Sheng | | TPAMI2024 | Video | |
@@ -88,7 +89,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-| | [Task-Aware Encoder Control for Deep Video Compression](https://arxiv.org/pdf/2404.04848.pdf) | Xingtong Ge | | CVPR2024 | Video | |
+| | [Scalable Image Coding for Humans and Machines Using Feature Fusion Network](https://arxiv.org/pdf/2405.09152) | Takahiro Shindo | | PrePrint'24 | Image | |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
 |GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
 | | [Adaptive Human-Centric Video Compression for Humans and Machines](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jiang_Adaptive_Human-Centric_Video_Compression_for_Humans_and_Machines_CVPRW_2023_paper.pdf) | Wei Jiang | VQ | CVPR workshop 2023 | Video |  | 
