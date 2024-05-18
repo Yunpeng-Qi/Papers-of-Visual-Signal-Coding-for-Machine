@@ -89,6 +89,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [Towards Task-Compatible Compressible Representations](https://arxiv.org/pdf/2405.10244) | Anderson de Andrade | | ICME Workshop2024 | Image | |
 | | [Scalable Image Coding for Humans and Machines Using Feature Fusion Network](https://arxiv.org/pdf/2405.09152) | Takahiro Shindo | | PrePrint'24 | Image | |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
 |GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
