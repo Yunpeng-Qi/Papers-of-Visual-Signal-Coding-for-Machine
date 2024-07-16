@@ -95,7 +95,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Rate-distortion cognitive controllable versatile neural image compression.]() | Jinming Liu | | ECCV2024 | Image | |
-|Adapt-ICMH| [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](https://arxiv.org/pdf/2407.09853) | Han Li | Adapter | ECCV2024 | Image | project[https://github.com/qingshi9974/ECCV2024-AdpatICMH] |
+|Adapt-ICMH| [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](https://arxiv.org/pdf/2407.09853) | Han Li | Adapter | ECCV2024 | Image | [project](https://github.com/qingshi9974/ECCV2024-AdpatICMH) |
 | | [Towards Task-Compatible Compressible Representations](https://arxiv.org/pdf/2405.10244) | Anderson de Andrade | | ICME Workshop2024 | Image | |
 | | [Scalable Image Coding for Humans and Machines Using Feature Fusion Network](https://arxiv.org/pdf/2405.09152) | Takahiro Shindo | | PrePrint'24 | Image | |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
@@ -113,7 +113,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Scalable Image Coding for Humans and Machines](https://ieeexplore.ieee.org/abstract/document/9741390) | Hyomin Choi |  | TIP2022 | Image |  | 
 |  | [HMFVC: A Human-Machine Friendly Video Compression Scheme](https://ieeexplore.ieee.org/abstract/document/9894405) | Zhimeng Huang |  | TCSVT2022 | Video |  | 
 |  | [Bridging the gap between image coding for machines and humans](https://ieeexplore.ieee.org/abstract/document/9897916) | Nam Le |  | ICIP2022 | Image |  | 
-|  | [Towards End-to-End Image Compression and Analysis with Transformers](https://arxiv.org/pdf/2112.09300) | Yuanchao Bai & Xu Yang |  | AAAI2022 | Image | project[https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers/tree/main?tab=readme-ov-file#towards-end-to-end-image-compression-and-analysis-with-transformers] | 
+|  | [Towards End-to-End Image Compression and Analysis with Transformers](https://arxiv.org/pdf/2112.09300) | Yuanchao Bai & Xu Yang |  | AAAI2022 | Image | [project](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers/tree/main?tab=readme-ov-file#towards-end-to-end-image-compression-and-analysis-with-transformers) | 
 |  | [Learned Image Compression for Machine Perception](https://arxiv.org/pdf/2111.02249) | Felipe Codevilla |  | PrePrint'21 | Image |  | 
 |  | [Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations](https://link.springer.com/article/10.1007/s11263-021-01491-7) | Kang Liu |  | IJCV2021 | Image |  | 
 |  | [Towards Analysis-Friendly Face Representation With Scalable Feature and Texture Compression](https://ieeexplore.ieee.org/document/9473014) | Shurun Wang |  | TMM2021 | Image |  | 
