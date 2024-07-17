@@ -94,7 +94,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-| | [Rate-distortion cognitive controllable versatile neural image compression]() | Jinming Liu | | ECCV2024 | Image | |
+| | [Rate-distortion cognitive controllable versatile neural image compression](https://arxiv.org/pdf/2407.11700) | Jinming Liu | | ECCV2024 | Image | |
 |Adapt-ICMH| [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](https://arxiv.org/pdf/2407.09853) | Han Li | Adapter | ECCV2024 | Image | [Code](https://github.com/qingshi9974/ECCV2024-AdpatICMH) |
 | | [Machine Perception-Driven Facial Image Compression: A Layered Generative Approach]() | Yuefeng Zhang | | TCSVT2024 | Image | |
 | | [Towards Task-Compatible Compressible Representations](https://arxiv.org/pdf/2405.10244) | Anderson de Andrade | | ICME Workshop2024 | Image | |
