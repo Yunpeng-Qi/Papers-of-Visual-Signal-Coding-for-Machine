@@ -32,6 +32,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [Saliency Map-Guided End-to-End Image Coding for Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10574324) | Bo Peng | | TCSVT2024 | Image | |
 | | [A Coding Framework and Benchmark towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440520) | Yuan Tian | | TPAMI2024 | Video | |
 | | [Task-Aware Encoder Control for Deep Video Compression](https://arxiv.org/pdf/2404.04848.pdf) | Xingtong Ge | Encoder Control | CVPR2024 | Video | |
 | | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
