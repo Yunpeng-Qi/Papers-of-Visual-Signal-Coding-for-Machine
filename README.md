@@ -33,6 +33,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Saliency Map-Guided End-to-End Image Coding for Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10574324) | Bo Peng | | IEEE Signal Processing Letters 2024 | Image | |
+
+| | [Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines](https://arxiv.org/pdf/2406.12367) | Honglei Zhang | | PrePrint'24 | Video | |
 | | [A Coding Framework and Benchmark towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440520) | Yuan Tian | | TPAMI2024 | Video | |
 | | [Task-Aware Encoder Control for Deep Video Compression](https://arxiv.org/pdf/2404.04848.pdf) | Xingtong Ge | Encoder Control | CVPR2024 | Video | |
 | | [Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization](https://arxiv.org/pdf/2403.13030.pdf) | Jixiang Luo | benefit for ICM | PrePrint'24 | Image | |
@@ -66,9 +68,10 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Feature-Compression
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|| [Texture-guided Coding for Deep Features](https://arxiv.org/pdf/2405.19669) | Lei Xiong | | PrePrint'24 | Image | | 
-|| [Split Computing With Scalable Feature Compression for Visual Analytics on the Edge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540267) | Zhongzheng Yuan | | TMM 2024 | Image | | 
-|| [Hierarchical Image Feature Compression for Machines via Feature Sparsity Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502180) | Ding Ding | | IEEE Signal Processing 2024 | Image | | 
+| | [Masked Feature Compression for Object Detection](https://www.mdpi.com/2227-7390/12/12/1848) | Chengjie Dai | | mathematics2024 | Image | | 
+| | [Texture-guided Coding for Deep Features](https://arxiv.org/pdf/2405.19669) | Lei Xiong | | PrePrint'24 | Image | | 
+| | [Split Computing With Scalable Feature Compression for Visual Analytics on the Edge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540267) | Zhongzheng Yuan | | TMM 2024 | Image | | 
+| | [Hierarchical Image Feature Compression for Machines via Feature Sparsity Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502180) | Ding Ding | | IEEE Signal Processing 2024 | Image | | 
 |var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  | variable-rate | ICME workshop2023 | Image | [Code](https://github.com/adnan-hossain/var-feat-comp) | 
 |NEC| [Neural Embedding Compression For Efficient Multi-Task Earth Observation Modelling](https://arxiv.org/pdf/2403.17886.pdf) | Carlos Gomes  | multi-task | PrePrint'24 | Earth Observation Data | | 
 |var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  | variable-rate | ICME workshop2023 | Image | [Code](https://github.com/adnan-hossain/var-feat-comp) | 
