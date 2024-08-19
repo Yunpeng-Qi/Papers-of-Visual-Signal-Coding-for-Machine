@@ -32,6 +32,9 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](https://www.arxiv.org/pdf/2408.08575) | Jinming Liu | using MLLM | PrePrint'24 | Image | |
+| | [High Efficiency Image Compression for Large Visual-Language Models](https://www.arxiv.org/pdf/2407.17060) | Binzhe Li | for MLLM | PrePrint'24 | Image | |
+| | [Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines](https://arxiv.org/pdf/2408.07028) | Samuel Fernández Menduiña | Based on AVC | PrePrint'24 | Image | |
 | | [Saliency Map-Guided End-to-End Image Coding for Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10574324) | Bo Peng | | IEEE Signal Processing Letters 2024 | Image | |
 | | [Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines](https://arxiv.org/pdf/2406.12367) | Honglei Zhang | | PrePrint'24 | Video | |
 | | [A Coding Framework and Benchmark towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440520) | Yuan Tian | | TPAMI2024 | Video | |
@@ -67,6 +70,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Feature-Compression
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](https://arxiv.org/pdf/2407.19651) | Chia-Hao Kao | for MLLM | PrePrint'24 | Image | | 
+| | [Reconstruction-free Image Compression for Machine Vision via Knowledge Transfer](https://dl.acm.org/doi/abs/10.1145/3678471) | Hanyue Tu | | | Image | | 
 | | [Masked Feature Compression for Object Detection](https://www.mdpi.com/2227-7390/12/12/1848) | Chengjie Dai | | mathematics2024 | Image | | 
 | | [Texture-guided Coding for Deep Features](https://arxiv.org/pdf/2405.19669) | Lei Xiong | | PrePrint'24 | Image | | 
 | | [Split Computing With Scalable Feature Compression for Visual Analytics on the Edge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540267) | Zhongzheng Yuan | | TMM 2024 | Image | | 
