@@ -32,6 +32,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2409.11718) | Yuan Tian | unsupervised | PrePrint'24 | Video | |
 | | [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](https://www.arxiv.org/pdf/2408.08575) | Jinming Liu | using MLLM | PrePrint'24 | Image | |
 | | [High Efficiency Image Compression for Large Visual-Language Models](https://www.arxiv.org/pdf/2407.17060) | Binzhe Li | for MLLM | PrePrint'24 | Image | |
 | | [Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines](https://arxiv.org/pdf/2408.07028) | Samuel Fernández Menduiña | Based on AVC | PrePrint'24 | Image | |
