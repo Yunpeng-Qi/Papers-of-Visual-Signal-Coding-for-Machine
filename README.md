@@ -32,6 +32,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf) | Sha Guo and Lin Sui | multi-task | ECCV2024 | Image | |
 | | [Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2409.11718) | Yuan Tian | unsupervised | PrePrint'24 | Video | |
 | | [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](https://www.arxiv.org/pdf/2408.08575) | Jinming Liu | using MLLM | PrePrint'24 | Image | |
 | | [High Efficiency Image Compression for Large Visual-Language Models](https://www.arxiv.org/pdf/2407.17060) | Binzhe Li | for MLLM | PrePrint'24 | Image | |
@@ -109,7 +110,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Towards Task-Compatible Compressible Representations](https://arxiv.org/pdf/2405.10244) | Anderson de Andrade | | ICME Workshop2024 | Image | |
 | | [Scalable Image Coding for Humans and Machines Using Feature Fusion Network](https://arxiv.org/pdf/2405.09152) | Takahiro Shindo | | PrePrint'24 | Image | |
 | | [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/pdf/2402.12532v1.pdf) | Mateen Ulhaq |  | PrePrint'24 | Pointcloud |  | 
-|GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | |
+|GIT-SSIC| [Semantically Structured Image Compression via Irregular Group-Based Decoupling](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html) | Ruoyu Feng and Yixin Gao | | ICCV2023 | Image | [Code](https://github.com/Amygyx/GIT-SSIC)|
 | | [Adaptive Human-Centric Video Compression for Humans and Machines](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jiang_Adaptive_Human-Centric_Video_Compression_for_Humans_and_Machines_CVPRW_2023_paper.pdf) | Wei Jiang | VQ | CVPR workshop 2023 | Video |  | 
 | | [Learned point cloud compression for classification](https://ieeexplore.ieee.org/abstract/document/10337709) | Mateen Ulhaq |  | MMSP2023 | Pointcloud |  | 
 | | [Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10125297) | Ezgi Ozyılkan |  | DCC2023 | Image |  | 
