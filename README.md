@@ -32,7 +32,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-| | [A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf) | Sha Guo and Lin Sui | multi-task | ECCV2024 | Image | |
 | | [Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2409.11718) | Yuan Tian | unsupervised | PrePrint'24 | Video | |
 | | [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](https://www.arxiv.org/pdf/2408.08575) | Jinming Liu | using MLLM | PrePrint'24 | Image | |
 | | [High Efficiency Image Compression for Large Visual-Language Models](https://www.arxiv.org/pdf/2407.17060) | Binzhe Li | for MLLM | PrePrint'24 | Image | |
@@ -104,6 +103,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf) | Sha Guo and Lin Sui | multi-task | ECCV2024 | Image | |
 | | [Rate-distortion cognitive controllable versatile neural image compression](https://arxiv.org/pdf/2407.11700) | Jinming Liu | | ECCV2024 | Image | |
 |Adapt-ICMH| [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](https://arxiv.org/pdf/2407.09853) | Han Li | Adapter | ECCV2024 | Image | [Code](https://github.com/qingshi9974/ECCV2024-AdpatICMH) |
 | | [Machine Perception-Driven Facial Image Compression: A Layered Generative Approach]() | Yuefeng Zhang | | TCSVT2024 | Image | |
