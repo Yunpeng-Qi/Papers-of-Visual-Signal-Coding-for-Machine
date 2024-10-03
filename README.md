@@ -71,6 +71,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Feature-Compression
 |Model| Paper | First Author | Note | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [Distributed Semantic Segmentation with Efficient Joint Source and Task Decoding](https://web3.arxiv.org/pdf/2407.11224) | Danish Nazir | | ECCV2024 | Image | | 
 | | [ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](https://arxiv.org/pdf/2407.19651) | Chia-Hao Kao | for MLLM | PrePrint'24 | Image | | 
 | | [Reconstruction-free Image Compression for Machine Vision via Knowledge Transfer](https://dl.acm.org/doi/abs/10.1145/3678471) | Hanyue Tu | | | Image | | 
 | | [Masked Feature Compression for Object Detection](https://www.mdpi.com/2227-7390/12/12/1848) | Chengjie Dai | | mathematics2024 | Image | | 
@@ -79,6 +80,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Hierarchical Image Feature Compression for Machines via Feature Sparsity Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502180) | Ding Ding | | IEEE Signal Processing 2024 | Image | | 
 |var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  | variable-rate | ICME workshop2023 | Image | [Code](https://github.com/adnan-hossain/var-feat-comp) | 
 |NEC| [Neural Embedding Compression For Efficient Multi-Task Earth Observation Modelling](https://arxiv.org/pdf/2403.17886.pdf) | Carlos Gomes  | multi-task | PrePrint'24 | Earth Observation Data | | 
+|| [Neural Rate Estimator and Unsupervised Learning for Efficient Distributed Image Analytics in Split-DNN Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ahuja_Neural_Rate_Estimator_and_Unsupervised_Learning_for_Efficient_Distributed_Image_CVPR_2023_paper.pdf) | Nilesh Ahuja  | | CVPR2023 | Image | [Code](https://github.com/IntelLabs/spic)  | 
 |var-feat-comp| [Flexible Variable-Rate Image Feature Compression for Edge-Cloud Systems](https://ieeexplore.ieee.org/abstract/document/10222898) | Md Adnan Faisal Hossain  | variable-rate | ICME workshop2023 | Image | [Code](https://github.com/adnan-hossain/var-feat-comp) | 
 || [Scalable Feature Compression for Edge-Assisted Object Detection Over Time-Varying Networks](https://openreview.net/forum?id=b9lQw75UugS) | Zhongzheng Yuan | | MLSys workshop2023 | Image | | 
 | | [End-to-End Learnable Multi-Scale Feature Compression for VCM](https://ieeexplore.ieee.org/abstract/document/10210338) | Yeongwoong Kim  |  | TCSVT2023 | Video |  | 
