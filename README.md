@@ -7,7 +7,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on visual signal coding for machine in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository as soon as possible. 
  
-
+ 
 ## Papers for Visual Coding for Machine
 ### Table of contents
 <!-- - [Survey paper](#survey-paper)
