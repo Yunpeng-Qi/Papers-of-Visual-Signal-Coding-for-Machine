@@ -16,6 +16,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 - [Compress Then Analysis](#Compress-Then-Analysis)
 - [Feature Compression](#Feature-Compression)
 - [Joint Human and Machine Vision](#Joint-Human-and-Machine-Vision)
+- [Vision Model Token Compression](#Vision Model Token Compression)
   <!-- - [Recommended Datasets](#recommended-datasets)
   - [All Datasets](#all-datasets) -->
 
@@ -71,7 +72,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper_files/paper/2018/file/7af6266cc52234b5aa339b16695f7fc4-Paper.pdf) | Lionel Gueguen |  | NeurIPS2018 | Image | [Code](https://github.com/uber-research/jpeg2dct) |
 | | [Towards Image Understanding from Deep Compression Without Decoding](https://openreview.net/pdf?id=HkXWCMbRW) | Robert Torfason |  | ICLR2018 | Image | |
 ### Feature-Compression
-|Model| Paper | First Author | Note | Venue | Topic | Project |
+|Model| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [Distributed Semantic Segmentation with Efficient Joint Source and Task Decoding](https://web3.arxiv.org/pdf/2407.11224) | Danish Nazir | | ECCV2024 | Image | | 
 | | [ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](https://arxiv.org/pdf/2407.19651) | Chia-Hao Kao | for MLLM | PrePrint'24 | Image | | 
@@ -105,7 +106,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | | [Deep Feature Compression for Collaborative Object Detection](https://ieeexplore.ieee.org/abstract/document/8451100) | Hyomin Choi |  | ICIP2018 | Image | |
 | | [Near-Lossless Deep Feature Compression for Collaborative Intelligence](https://arxiv.org/pdf/1804.09963) | Hyomin Choi |  | MMSP2018 | Image | |
 ### Joint-Human-and-Machine-Vision
-|Model| Paper | First Author | Note | Venue | Topic | Project |
+|Model| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | | [A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf) | Sha Guo and Lin Sui | multi-task | ECCV2024 | Image | |
 | | [Rate-distortion cognitive controllable versatile neural image compression](https://arxiv.org/pdf/2407.11700) | Jinming Liu | | ECCV2024 | Image | |
@@ -138,3 +139,21 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Latent-space scalability for multi-task collaborative intelligence](https://arxiv.org/pdf/2105.10089) | Hyomin Choi |  | ICIP2021 | Image |  | 
 | SSIC | [Semantic Structured Image Coding Framework for Multiple Intelligent Applications](https://ieeexplore.ieee.org/abstract/document/9281078) | Simeng Sun |  | TCSVT2020 | Image | |
 |  | [Towards Coding for Human and Machine Vision: A Scalable Image Coding Approach](https://arxiv.org/abs/2001.02915) | Yueyu Hu  |  | ICME2020 | Image |  [Project](https://williamyang1991.github.io/projects/VCM-Face/)  | 
+### Survey-&-Theory
+|Models| Paper | First Author | Note | Venue | Data | Project |
+| :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+|  | [Towards Semantic Equivalence of Tokenization in Multimodal LLM](https://arxiv.org/abs/2406.05127) | Shengqiong Wu| Tokenizer | PrePrint'24 | Image | |
+| PruMerge | [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.org/abs/2403.15388) | Yuzhang Shang | VL-conncetor | PrePrint'24 | Image & Video| [Code](https://github.com/42Shawn/LLaVA-PruMerge) |
+| AVG-LLaVA | [AVG-LLaVA: A Large Multimodal Model with Adaptive Visual Granularity](https://arxiv.org/abs/2410.02745) | Zhibin Lan | VL-conncetor | PrePrint'24 | Image | [Code](https://github.com/DeepLearnXMU/AVG-LLaVA) |
+|  | [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://arxiv.org/abs/2409.01179) | Yi Chen | VL-conncetor | PrePrint'24 | Image | |
+| HiRED | [HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments](https://arxiv.org/abs/2408.10945) | Kazi Hasan Ibn Arif | VL-conncetor | PrePrint'24 | High Resolution Image | |
+| DeCo | [DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models](https://arxiv.org/abs/2405.20985) | Linli Yao | VL-conncetor | PrePrint'24 | Image | [Code](https://github.com/yaolinli/DeCo) |
+| CrossGET | [CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers](https://arxiv.org/abs/2305.17455) | Dachuan Shi | Tokenizer | ICML2024 | Image | [Code](https://github.com/sdc17/CrossGET) |
+| DocPedia | [DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding](https://arxiv.org/abs/2311.11810) | Hao Feng | Tokenizer | PrePrint'23 | | |
+| CrossGET | [CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers](https://arxiv.org/abs/2305.17455) | Dachuan Shi |  | ICML2024 | | [Code](https://github.com/sdc17/CrossGET) |
+| Honeybee | [Honeybee: Locality-enhanced Projector for Multimodal LLM](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Honeybee_Locality-enhanced_Projector_for_Multimodal_LLM_CVPR_2024_paper.pdf) | Junbum Cha, Wooyoung Kang and Jonghwan Mun | VL-conncetor | CVPR2024 Highlight | | [Code](https://github.com/khanrc/honeybee) |
+| InternVL2 | [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) | Zhe Chen | VL-conncetor | PrePrint'24 | | [Code](https://github.com/OpenGVLab/InternVL) |
+|  | [Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs](https://arxiv.org/abs/2409.10994) | Dingjie Song | VL-conncetor | PrePrint'24 | | |
+|  | [Matryoshka Multimodal Models](https://arxiv.org/abs/2405.17430) | Mu Cai | VL-conncetor | PrePrint'24 | | [Code](https://github.com/mu-cai/matryoshka-mm) |
+|  | [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611) | Brandon McKinzie | Ablations on each element | ECCV2024 | Image | |
+| LDPv2 | [MobileVLM V2: Faster and Stronger Baseline for Vision Language Model](https://arxiv.org/abs/2402.03766) | Xiangxiang Chu | VL-conncetor | PrePrint'24 | Image | [Code](https://github.com/Meituan-AutoML/MobileVLM) |
