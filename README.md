@@ -155,8 +155,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | InternVL2 | [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) | Zhe Chen | VL-conncetor | PrePrint'24 | | [Code](https://github.com/OpenGVLab/InternVL) |
 |  | [Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs](https://arxiv.org/abs/2409.10994) | Dingjie Song | VL-conncetor | PrePrint'24 | | |
 |  | [Matryoshka Multimodal Models](https://arxiv.org/abs/2405.17430) | Mu Cai | VL-conncetor | PrePrint'24 | | [Code](https://github.com/mu-cai/matryoshka-mm) |
-|  | [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611) | Brandon McKinzie | Ablations on each element | ECCV2024 | Image | |
-| LDPv2 | [MobileVLM V2: Faster and Stronger Baseline for Vision Language Model](https://arxiv.org/abs/2402.03766) | Xiangxiang Chu | VL-conncetor | PrePrint'24 | Image | [Code](https://github.com/Meituan-AutoML/MobileVLM) |
+| MM1 | [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611) | Brandon McKinzie | Ablations on each element | ECCV2024 | Image | |
 | LDPv2 | [MobileVLM V2: Faster and Stronger Baseline for Vision Language Model](https://arxiv.org/abs/2402.03766) | Xiangxiang Chu | VL-conncetor | PrePrint'24 | Image | [Code](https://github.com/Meituan-AutoML/MobileVLM) |
 | mPLUG-DocOwl2 | [High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2402.03766) | Anwen Hu | VL-conncetor | PrePrint'24 | Document | [Code](https://github.com/X-PLUG/mPLUG-DocOwl) |
 | TextHawk | [TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models](https://arxiv.org/abs/2404.09204) | Ya-Qi Yu | VL-conncetor | PrePrint'24 | Image | [Code](https://github.com/yuyq96/TextHawk) |
