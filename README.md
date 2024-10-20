@@ -16,7 +16,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 - [Compress Then Analysis](#Compress-Then-Analysis)
 - [Feature Compression](#Feature-Compression)
 - [Joint Human and Machine Vision](#Joint-Human-and-Machine-Vision)
-- [Vision Model Token Compression](#Vision Model Token Compression)
+- [Vision Model Token Compression](#Vision-Model-Token-Compression)
   <!-- - [Recommended Datasets](#recommended-datasets)
   - [All Datasets](#all-datasets) -->
 
@@ -139,7 +139,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Latent-space scalability for multi-task collaborative intelligence](https://arxiv.org/pdf/2105.10089) | Hyomin Choi |  | ICIP2021 | Image |  | 
 | SSIC | [Semantic Structured Image Coding Framework for Multiple Intelligent Applications](https://ieeexplore.ieee.org/abstract/document/9281078) | Simeng Sun |  | TCSVT2020 | Image | |
 |  | [Towards Coding for Human and Machine Vision: A Scalable Image Coding Approach](https://arxiv.org/abs/2001.02915) | Yueyu Hu  |  | ICME2020 | Image |  [Project](https://williamyang1991.github.io/projects/VCM-Face/)  | 
-### Survey-&-Theory
+### Vision Model Token Compression
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |  | [Towards Semantic Equivalence of Tokenization in Multimodal LLM](https://arxiv.org/abs/2406.05127) | Shengqiong Wu| Tokenizer | PrePrint'24 | Image | |
