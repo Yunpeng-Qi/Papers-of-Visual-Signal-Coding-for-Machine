@@ -32,7 +32,9 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-| | [Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2409.11718) | Yuan Tian | unsupervised | PrePrint'24 | Video | |
+| | [Remote Sensing Image Coding for Machines on Semantic Segmentation via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10716527) | Junxi Zhang | Remote Sensing | TGRS2024 | Image | |
+| Delta-ICM | [Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression](https://arxiv.org/abs/2410.07669) | Takahiro Shindo |  | PrePrint'24 | Image | |
+| Free-VSC | [Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2409.11718) | Yuan Tian | unsupervised | PrePrint'24 | Video | |
 | | [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](https://www.arxiv.org/pdf/2408.08575) | Jinming Liu | using MLLM | PrePrint'24 | Image | |
 | | [High Efficiency Image Compression for Large Visual-Language Models](https://www.arxiv.org/pdf/2407.17060) | Binzhe Li | for MLLM | PrePrint'24 | Image | |
 | | [Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines](https://arxiv.org/pdf/2408.07028) | Samuel Fernández Menduiña | Based on AVC | PrePrint'24 | Image | |
