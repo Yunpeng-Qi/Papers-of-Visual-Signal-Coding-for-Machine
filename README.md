@@ -33,6 +33,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| SA-ICM | [Image Coding for Machines with Edge Information Learning Using Segment Anything](https://arxiv.org/pdf/2403.04173) | Takahiro Shindo | | ICIP2024 | Image | |
 | | [Remote Sensing Image Coding for Machines on Semantic Segmentation via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10716527) | Junxi Zhang | Remote Sensing | TGRS2024 | Image | |
 | Delta-ICM | [Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression](https://arxiv.org/abs/2410.07669) | Takahiro Shindo |  | PrePrint'24 | Image | |
 | Free-VSC | [Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2409.11718) | Yuan Tian | unsupervised | PrePrint'24 | Video | |
