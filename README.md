@@ -169,3 +169,4 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | VidToMe | [VidToMe: Video Token Merging for Zero-Shot Video Editing](https://vidtome-diffusion.github.io/VidToMe_Arxiv.pdf) | Xirui Li | Tokenizer | CVPR2024 | Video | [Code](https://github.com/lixirui142/VidToMe) |
 | VoCo-LLaMA | [VoCo-LLaMA: Towards Vision Compression with Large Language Models](https://arxiv.org/abs/2406.12275) | Xubing Ye | VL-conncetor | PrePrint'24 | Image & Video | [Code](https://github.com/Yxxxb/VoCo-LLaMA) |
 | FastV | [An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models](https://arxiv.org/abs/2403.06764) | Xubing Ye | VL-conncetor | ECCV2024 oral | Image | [Code](https://github.com/pkunlp-icler/FastV) |
+| TempMe | [TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval](https://arxiv.org/abs/2409.01156) | Leqi Shen | Tokenizer | PrePrint'24 | Image | |
