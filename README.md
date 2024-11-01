@@ -165,7 +165,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | TokenCorrCompressor | [Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding](https://arxiv.org/abs/2407.14439) | Renshan Zhang | VL-conncetor | PrePrint'24 | Image & Video | [Code](https://github.com/JiuTian-VL/TokenCorrCompressor) |
 | ToMe | [Token Merging: Your ViT But Faster](https://arxiv.org/abs/2210.09461) | Daniel Bolya | Tokenizer | ICLR2023 notable top 5% | Image & Video | [Code](https://github.com/facebookresearch/ToMe) |
 | TokenPacker | [TokenPacker: Efficient Visual Projector for Multimodal LLM](https://arxiv.org/abs/2407.02392) | Wentong Li | VL-conncetor | PrePrint'24 | Image | [Code](https://github.com/CircleRadon/TokenPacker) |
-
 | VidToMe | [VidToMe: Video Token Merging for Zero-Shot Video Editing](https://vidtome-diffusion.github.io/VidToMe_Arxiv.pdf) | Xirui Li | Tokenizer | CVPR2024 | Video | [Code](https://github.com/lixirui142/VidToMe) |
 | VoCo-LLaMA | [VoCo-LLaMA: Towards Vision Compression with Large Language Models](https://arxiv.org/abs/2406.12275) | Xubing Ye | VL-conncetor | PrePrint'24 | Image & Video | [Code](https://github.com/Yxxxb/VoCo-LLaMA) |
 | FastV | [An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models](https://arxiv.org/abs/2403.06764) | Xubing Ye | VL-conncetor | ECCV2024 oral | Image | [Code](https://github.com/pkunlp-icler/FastV) |
