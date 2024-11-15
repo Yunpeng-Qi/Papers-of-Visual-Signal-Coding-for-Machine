@@ -33,6 +33,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Compress-Then-Analysis
 |Models| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| DT-JRD | [DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines](https://arxiv.org/pdf/2411.09308) | Junqi Liu | | TMM | Video | |
 | FSIC | [FSIC: Frequency-separated image compression for small object detection](https://www.sciencedirect.com/science/article/pii/S1051200424004470) | Chengjie Dai | Frequency decomposition | Digital Signal Processing2025 | Image | |
 | SA-ICM | [Image Coding for Machines with Edge Information Learning Using Segment Anything](https://arxiv.org/pdf/2403.04173) | Takahiro Shindo | | ICIP2024 | Image | |
 | | [Remote Sensing Image Coding for Machines on Semantic Segmentation via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10716527) | Junxi Zhang | Remote Sensing | TGRS2024 | Image | |
